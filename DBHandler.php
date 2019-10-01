@@ -1,6 +1,5 @@
 <?php 
-/**
-
+/* commit 테스트
  */
 
 class DBHandler extends MySql
